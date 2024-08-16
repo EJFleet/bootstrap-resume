@@ -371,4 +371,7 @@ button[type="submit"] {
         max-width: 50%;
     }
     
+    footer {
+        bottom: 0;
+    }
 }
